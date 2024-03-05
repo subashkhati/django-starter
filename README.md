@@ -1,1 +1,1 @@
-#Django Starter Template
+# Django Starter Template
